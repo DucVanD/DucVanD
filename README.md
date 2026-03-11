@@ -35,11 +35,9 @@ I enjoy designing user-friendly websites, particularly in e-commerce and managem
 
 ## 📊 GitHub Stats
 
-
-
----
-
-## 📂 Projects
+<p align="center">
+ <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DucVanD&theme=github_dark" />
+</p>
 
 
 
