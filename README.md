@@ -19,7 +19,7 @@ I enjoy designing user-friendly websites, particularly in e-commerce and managem
   </a>
 </p>
 
-## 🛠️ Tools 
+## 🔨 Tools 
 
 
 <p align="left">
@@ -48,9 +48,7 @@ I enjoy designing user-friendly websites, particularly in e-commerce and managem
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucVanD&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DucVanD&theme=tokyonight&hide_border=true" />
-</div>
+
 ---
 
 ## 📂 Projects
@@ -58,7 +56,6 @@ I enjoy designing user-friendly websites, particularly in e-commerce and managem
 | | Name | description | Stack |
 |---|---|---|---|
 | 🎂 | [Cake Shop](https://github.com/DucVanD/Cake_Shop) | Cake e-commerce website with cart and checkout | `Laravel` `MySQL` |
-| 📱 | [Backend App Mobile](https://github.com/DucVanD/Backend_App_Mobile2) | REST API cho ứng dụng di động | `Java` `Spring Boot` |
 | 🛒 | [Mini Supermarket](https://github.com/DucVanD/Chuyen-De-Java) | Mini Supermarket Website with Online Shopping and Payment | `JavaScript` `MySQL` `Spring Boot` |
 
 ---
