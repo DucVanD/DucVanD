@@ -36,14 +36,33 @@ I enjoy designing user-friendly websites, particularly in e-commerce and managem
 ## 📊 GitHub Stats
 
 <p align="center">
- <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DucVanD&theme=github_dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DucVanD&theme=github-compact&area=true&hide_border=true" />
 </p>
+
 
 <div align="center">
   <img src="https://github.com/DucVanD/DucVanD/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucVanD&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DucVanD&theme=tokyonight&hide_border=true" />
+</div>
+---
+
+## 📂 Projects
+
+| | Name | description | Stack |
+|---|---|---|---|
+| 🎂 | [Cake Shop](https://github.com/DucVanD/Cake_Shop) | Cake e-commerce website with cart and checkout | `Laravel` `MySQL` |
+| 📱 | [Backend App Mobile](https://github.com/DucVanD/Backend_App_Mobile2) | REST API cho ứng dụng di động | `Java` `Spring Boot` |
+| 🛒 | [Mini Supermarket](https://github.com/DucVanD/Chuyen-De-Java) | Mini Supermarket Website with Online Shopping and Payment | `JavaScript` `MySQL` `Spring Boot` |
 
 ---
 
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DucVanD&style=flat-square&color=58a6ff" />
+</div>
