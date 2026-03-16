@@ -15,7 +15,7 @@ I enjoy designing user-friendly websites, particularly in e-commerce and managem
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,laravel,php,hibernate,mysql,postgres,react,ts,js,redux,html,css&perline=11" />
+    <img src="https://skillicons.dev/icons?i=java,spring,laravel,php,hibernate,mysql,postgres,react,ts,js,redux,html,css,bootstrap,tailwind&perline=11" />
   </a>
 </p>
 
