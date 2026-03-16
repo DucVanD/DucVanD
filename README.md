@@ -11,7 +11,7 @@ I enjoy designing user-friendly websites, particularly in e-commerce and managem
 
 ## 🛠️ Skills
 
-** Front End /  Backend /  Tools**
+** Front End /  Backend /  Tech**
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@ I enjoy designing user-friendly websites, particularly in e-commerce and managem
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,docker,ai,vercel,vite,vscode,figma&perline=11" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,vite,vscode,figma&perline=11" />
   </a>
 </p>
 
