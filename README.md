@@ -35,9 +35,9 @@ I enjoy designing user-friendly websites, particularly in e-commerce and managem
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DucVanD&theme=github-compact&area=true&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DucVanD&layout=compact&theme=tokyonight" />
+</div>
 
 
 <div align="center">
