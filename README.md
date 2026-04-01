@@ -44,10 +44,7 @@ I enjoy designing user-friendly websites, particularly in e-commerce and managem
   <img src="https://github.com/DucVanD/DucVanD/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucVanD&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucVanD&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" /> </div>
 
 ---
 
