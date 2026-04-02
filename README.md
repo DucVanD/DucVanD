@@ -11,7 +11,7 @@ I enjoy designing user-friendly websites, particularly in e-commerce and managem
 
 ## 🛠️ Skills
 
-** Front End /  Backend /  Tech**
+** Front End /  Backend /  DevOps**
 
 <p align="left">
   <a href="https://skillicons.dev">
