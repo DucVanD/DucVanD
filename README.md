@@ -15,7 +15,7 @@ I enjoy designing user-friendly websites, particularly in e-commerce and managem
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,laravel,php,hibernate,mysql,postgres,react,ts,js,redux,html,css,bootstrap,tailwind&perline=11" />
+    <img src="https://skillicons.dev/icons?i=java,spring,laravel,php,hibernate,mysql,postgres,react,ts,js,redux,html,css,bootstrap,tailwind,docker,nginx,linux&perline=11" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@ I enjoy designing user-friendly websites, particularly in e-commerce and managem
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,vite,vscode,figma&perline=11" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,docker,nginx,firebase,vercel,vite,vscode,figma&perline=11" />
   </a>
 </p>
 
@@ -52,6 +52,7 @@ I enjoy designing user-friendly websites, particularly in e-commerce and managem
 
 | | Name | description | Stack |
 |---|---|---|---|
+| 🏍️ | [MotoDex](https://github.com/DucVanD/motocare) | Motorbike maintenance chain management system with AI Assistant, QR code scanning, and MOMO/Sepay payment | `Spring Boot` `SQL Server` `React` `React Native` `Expo` `Docker` `Gemini AI` |
 | 🎂 | [Cake Shop](https://github.com/DucVanD/Cake_Shop) | Cake e-commerce website with cart and checkout | `Laravel` `MySQL` |
 | 🛒 | [Mini Supermarket](https://github.com/DucVanD/Chuyen-De-Java) | Mini Supermarket Website with Online Shopping and Payment | `JavaScript` `MySQL` `Spring Boot` |
 
